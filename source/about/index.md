@@ -1,0 +1,11 @@
+title: Sobre mi
+date: 2015-07-31 17:01:36
+---
+
+Hola!
+
+Mi nombres es Carlos Cárcamo, me encanta la informática, me gusta la programación, la robótica, la música y descansar los domingos en casa :)
+
+Cuando no estoy programando me la paso leyendo o bien bebiendo una o dos cervezas con mis amig@s XD
+
+Soy un programador freelancer así que ya sabes, si tienes un proyecto para mi no dudes en escribirme a <a href="mailto:carloscarcamo.m@gmail.com">carloscarcamo.m@gmail.com</a> yo te respondo tan pronto sea posible :)
