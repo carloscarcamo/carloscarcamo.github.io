@@ -1,37 +1,12 @@
-title: Hello World
+title: Hola mundo!
 ---
-Welcome to [Hexo](http://hexo.io/)! This is your very first post. Check [documentation](http://hexo.io/docs/) for more info. If you get any problems when using Hexo, you can find the answer in [troubleshooting](http://hexo.io/docs/troubleshooting.html) or you can ask me on [GitHub](https://github.com/hexojs/hexo/issues).
 
-## Quick Start
+Bienvenid@s a mi blog!
 
-### Create a new post
+Esta es la primera vez que creo un blog personal, me motive a crear uno por que siento la necesidad de escribir algo XD. Pienso escribir sobre muchos temas desde política hasta poemas :) pero, principalmente voy a escribir sobre desarrollo web y computación en la nube.
 
-``` bash
-$ hexo new "My New Post"
-```
+Como amante y activista del software libre, pienso escribir esencialmente temas relacionados al mismo y cada nuevo conocimiento que adquiera tratare de compartirlo con los demás con el único interés que más personas conozcan y difundan el software libre.
 
-More info: [Writing](http://hexo.io/docs/writing.html)
+Actualmente colaboro con algunas comunidades en mi país, las cuales son: [Mozilla El Salvador](http://mozillasv.github.io/), [NodeBots El Salvador](http://nodebots-sv.github.io/), [Ionic El Salvador](https://www.facebook.com/ionicSV) y [Docker El Salvador](http://www.meetup.com/es/Docker-El-Salvador/), invito a mis paisanos a formar parte de alguna de estas comunidades, les puedo asegurar que aprenderemos y nos divertiremos mucho aprendiendo y colaborando :)
 
-### Run server
-
-``` bash
-$ hexo server
-```
-
-More info: [Server](http://hexo.io/docs/server.html)
-
-### Generate static files
-
-``` bash
-$ hexo generate
-```
-
-More info: [Generating](http://hexo.io/docs/generating.html)
-
-### Deploy to remote sites
-
-``` bash
-$ hexo deploy
-```
-
-More info: [Deployment](http://hexo.io/docs/deployment.html)
+Nos leemos pronto...

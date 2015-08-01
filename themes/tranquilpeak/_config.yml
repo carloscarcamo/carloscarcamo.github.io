@@ -20,29 +20,29 @@ image_dir: assets/images
 sidebar:
   menu:
     home:
-      title: Home
+      title: Inicio
       url: /
       icon: home
     categories:
-      title: Categories
+      title: Categorías
       url: /all-categories
       icon: bookmark
     tags:
-      title: Tags
+      title: Etiquetas
       url: /all-tags
       icon: tags
     archives:
-      title: Archives
+      title: Archivo
       url: /all-archives
       icon: archive
     search:
-      title: Search
+      title: Buscar
       url: /#search
       icon: search
       # `st-search-show-outputs` classes are used to open swiftype search window
       class: st-search-show-outputs
     about:
-      title: About me
+      title: Sobre mi
       url: /about
       icon: question
   author_links:
@@ -86,9 +86,9 @@ sidebar:
 # DON'T edit `header`, `right_link`, `url`, `icon` and `class` variable name
 header:
   right_link:
-    # url: /#search
-    # icon: search
-    # class: st-search-show-outputs
+    url: /#search
+    icon: search
+    class: st-search-show-outputs
 
 # Author
 author:
@@ -116,13 +116,13 @@ author:
 # 4: Display header bar on all screens and medium sidebar is swiped
 sidebar_behavior: 1
 # Head title displayed at the top of the table of contents.
-toc_title: Table of contents
+toc_title: Tabla de contenidos
 # Display thumbnail image of each post on index pages (false: disabled, true: enabled)
 thumbnail_image: true
 # Message displayed after the <!-- more --> comment
-read_more_message: Continue reading
+read_more_message: Seguir leyendo
 # Message displayed after the <!-- more --> comment or after 300 characters for post with link layout
-go_to_message: Go to the website
+go_to_message: Ir al sitio web
 # Your blog cover picture located in folder `source/_images/` (development) or in `source/assets/images/` (production)
 cover_image: cover.jpg
 # Your favicon located in folder `source/_images/` (development) or in `source/assets/images/` (production)
@@ -142,8 +142,8 @@ google_analytics_id: UA-65773567-1
 # Your Gravatar email. Overwrite `author.picture` everywhere in the blog
 gravatar_email: carloscarcamo.m@gmail.com
 # Your swiftype install key
-swiftype_install_key:
+swiftype_install_key: mb4sduY7emWuteY8TMjJ
 # Your Facebook user ids used to connect your blog with your facebook user accounts (Facebook Insights). Separate ids with comma. e.g : 9830047,1003342
-fb_admin_ids:
+fb_admin_ids: 670700180
 # Your Facebook app id used to connect your blog with your facebook app account (Facebook Insights). E.g : 9841307
-fb_app_id:
+fb_app_id: 1012603265418986
