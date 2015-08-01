@@ -35,7 +35,8 @@ module.exports = function(grunt) {
      */
     function invokeConfigFn(tasks) {
         for (var taskName in tasks) {
-            if (tasks.hasOwnProperty(taskName) && taskName != 'watch') {
+            //if (tasks.hasOwnProperty(taskName) && taskName != 'watch') {
+            if (tasks.hasOwnProperty(taskName)) {
                 tasks[taskName](grunt);
             }
         }

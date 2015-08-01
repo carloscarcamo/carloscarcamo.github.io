@@ -43,7 +43,7 @@ sidebar:
       class: st-search-show-outputs
     about:
       title: About me
-      url: /#about
+      url: /about
       icon: question
   author_links:
     github:
@@ -94,9 +94,9 @@ header:
 author:
   email: carloscarcamo.m@gmail.com
   # Your biography (Markdown and HTML supported)
-  bio:
-  job:
-  location:
+  bio: 
+  job: Web developer
+  location: El Salvador
   # Your profile picture located in folder `source/_images/` (development)
   # or in `source/assets/images/` (production).
   # Overwritten by your gravatar image if `gravatar_image` is enabled
