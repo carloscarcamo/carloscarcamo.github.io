@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title><![CDATA[Carlos Carcamo]]></title>
+  <subtitle><![CDATA[Carlos Carcamo Website]]></subtitle>
+  <link href="/atom.xml" rel="self"/>
+  <link href="http://carloscarcamo.me/"/>
+  <updated>2015-08-31T18:13:54.254Z</updated>
+  <id>http://carloscarcamo.me/</id>
+  
+  <author>
+    <name><![CDATA[Carlos Cárcamo]]></name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title><![CDATA[Hola mundo!]]></title>
+    <link href="http://carloscarcamo.me/2015/08/31/hello-world/"/>
+    <id>http://carloscarcamo.me/2015/08/31/hello-world/</id>
+    <published>2015-08-31T18:13:54.254Z</published>
+    <updated>2015-08-31T18:13:54.254Z</updated>
+    <content type="html"><![CDATA[<p>Bienvenid@s a mi blog!</p>
+<p>Esta es la primera vez que creo un blog personal, me motive a crear uno por que siento la necesidad de escribir algo XD. Pienso escribir sobre muchos temas pero, principalmente voy a escribir sobre desarrollo web y computación en la nube.</p>
+<p>Como amante y activista del open source, pienso escribir esencialmente temas relacionados al mismo y cada nuevo conocimiento que adquiera tratare de compartirlo con los demás con el único interés que más personas se unan al movimiento de compartir el conocimiento.</p>
+<p>Actualmente colaboro con algunas comunidades en mi país, las cuales son: <a href="http://mozillasv.github.io/" target="_blank" rel="external">Mozilla El Salvador</a>, <a href="http://nodebots-sv.github.io/" target="_blank" rel="external">NodeBots El Salvador</a>, <a href="https://www.facebook.com/ionicSV" target="_blank" rel="external">Ionic El Salvador</a> y <a href="http://www.meetup.com/es/Docker-El-Salvador/" target="_blank" rel="external">Docker El Salvador</a>, invito a mis paisanos a formar parte de alguna de estas comunidades, les puedo asegurar que aprenderemos y nos divertiremos mucho colaborando :)</p>
+<p>Nos leemos pronto…</p>
+]]></content>
+    <summary type="html">
+    <![CDATA[<p>Bienvenid@s a mi blog!</p>
+<p>Esta es la primera vez que creo un blog personal, me motive a crear uno por que siento la necesidad de escr]]>
+    </summary>
+    
+  </entry>
+  
+</feed>
